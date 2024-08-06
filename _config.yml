@@ -12,7 +12,7 @@ title                    : "KL Talent Management"
 title_separator          : "-"
 name                     : &name "Kyra Little"
 description              : &description "personal description"
-url                      : "https://kl-talent-management.github.io/home" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kl-talent-management.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/home"
 repository               : "academicpages/academicpages.github.io"
 
