@@ -1,18 +1,18 @@
 # main links links
 main:
   - title: "About Us"
-    url: /
+    url: /home/
 
   - title: "Services"
-    url: /services/   
+    url: /home/services/   
 
   - title: "Talent"
-    url: /talent/ 
+    url: /home/talent/ 
         
   - title: "Blog Posts"
-    url: /blog-posts/
+    url: /home/blog-posts/
     
   - title: "Contact"
-    url: /contact/
+    url: /home/contact/
     
 

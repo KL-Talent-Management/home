@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /home/
 title: "About Us"
 author_profile: true
 redirect_from: 
